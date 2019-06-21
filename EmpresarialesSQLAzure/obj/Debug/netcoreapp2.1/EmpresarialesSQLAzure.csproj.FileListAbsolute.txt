@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\bin\Debug\netcoreapp2.1\EmpresarialesSQLAzure.deps.json
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\bin\Debug\netcoreapp2.1\EmpresarialesSQLAzure.runtimeconfig.json
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\bin\Debug\netcoreapp2.1\EmpresarialesSQLAzure.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\bin\Debug\netcoreapp2.1\EmpresarialesSQLAzure.dll
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\bin\Debug\netcoreapp2.1\EmpresarialesSQLAzure.pdb
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\EmpresarialesSQLAzure.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\EmpresarialesSQLAzure.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\EmpresarialesSQLAzure.RazorAssemblyInfo.cache
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\EmpresarialesSQLAzure.RazorAssemblyInfo.cs
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\EmpresarialesSQLAzure.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\EmpresarialesSQLAzure.AssemblyInfo.cs
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\EmpresarialesSQLAzure.RazorTargetAssemblyInfo.cache
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\EmpresarialesSQLAzure.dll
+C:\Users\sebas\source\repos\EmpresarialesSQLAzure\EmpresarialesSQLAzure\obj\Debug\netcoreapp2.1\EmpresarialesSQLAzure.pdb
